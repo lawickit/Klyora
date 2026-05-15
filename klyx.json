@@ -1,9 +1,8 @@
 {
   "name": "KlyoraX",
   "symbol": "KLYX",
-  "description": "Your token description here.",
+  "description": "KlyoraX token on Solana.",
   "image": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.png",
-  "attributes": [],
   "properties": {
     "files": [
       {
