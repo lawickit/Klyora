@@ -1,7 +1,16 @@
 {
   "name": "KlyoraX",
   "symbol": "KLYX",
-  "uri": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.json",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "Your token description here.",
+  "image": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
