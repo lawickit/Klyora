@@ -1,6 +1,7 @@
 {
   "name": "KlyoraX",
   "symbol": "KLYX",
-  "description": "KlyoraX Solana Relaunch",
-  "image": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.png"
+  "uri": "https://raw.githubusercontent.com/lawickit/Klyora/main/klyx.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
