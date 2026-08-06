@@ -1,0 +1,17 @@
+{
+  "name": "KFuel",
+  "symbol": "KFUEL",
+  "description": "KFuel is the funding token for KlyoraX. Every token sold directly funds KlyoraX liquidity and development on Solana.",
+  "image": "https://raw.githubusercontent.com/lawickit/Klyora/main/kfuel-logo.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/lawickit/Klyora/main/kfuel-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
